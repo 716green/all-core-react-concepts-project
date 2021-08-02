@@ -29,7 +29,7 @@ npm start
 
 ## Concepts
 
-> These concepts can also be found on my profile within `ThisCodeWorks`
+> These concepts can also be found on my profile within `ThisCodeWorks` - user: @narro
 
 - React Hooks
   - useState
